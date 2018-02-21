@@ -10,33 +10,30 @@ cross-linguistic perspective.
   Kristina Gulordava, Paola Merlo. 2016. 
 
 
-<b>Discontinuous Verb Phrases in Parsing and Machine Translation of English and German.</b>  *LREC* <a href="http://www.lrec-conf.org/proceedings/lrec2016/summaries/628.html">pdf</a> 
-
+<b>Discontinuous Verb Phrases in Parsing and Machine Translation of English and German.</b>  *LREC* <a href="http://www.lrec-conf.org/proceedings/lrec2016/summaries/628.html">pdf</a>  
 Sharid Loáiciga, Kristina Gulordava. 2016. 
 
 
 <b>Dependency length minimisation effects in short spans: a large-scale analysis of adjective placement in complex noun phrases.</b>  
-*ACL short* <a href="http://www.aclweb.org/anthology/P/P15/P15-2078.pdf">pdf</a>
-
+*ACL short* <a href="http://www.aclweb.org/anthology/P/P15/P15-2078.pdf">pdf</a>  
 Kristina Gulordava, Paola Merlo, Benoit Crabbé. 2015. 
 
 
 <b>Structural and lexical factors in adjective placement in complex noun phrases across Romance languages.</b>
-<i>CONLL</i> <a href="https://aclweb.org/anthology/K/K15/K15-1025.pdf">pdf</a> 
-
+<i>CONLL</i> <a href="https://aclweb.org/anthology/K/K15/K15-1025.pdf">pdf</a>   
 Kristina Gulordava, Paola Merlo. 2015. 
 
 <b>Diachronic Trends in Word Order Freedom and Dependency Length in Dependency-Annotated Corpora of Latin and Ancient Greek.</b> 
-<i>International Conference on Dependency Linguistics</i> <a href="http://aclweb.org/anthology/W/W15/W15-2115.pdf">pdf</a><br>
+<i>International Conference on Dependency Linguistics</i> <a href="http://aclweb.org/anthology/W/W15/W15-2115.pdf">pdf</a>  
 Kristina Gulordava, Paola Merlo. 2015. 
 
 <b>A distributional similarity approach to the detection of semantic change in the Google Books Ngram corpus.</b> 
-<i>Proceedings of the GEMS 2011 Workshop on GEometrical Models of Natural Language Semantics</i> <a href="http://dl.acm.org/ft_gateway.cfm?id=2140498&amp;ftid=1137443&amp;dwn=1&amp;CFID=700680761&amp;CFTOKEN=63321586">pdf</a>
+<i>Proceedings of the GEMS 2011 Workshop on GEometrical Models of Natural Language Semantics</i> <a href="http://dl.acm.org/ft_gateway.cfm?id=2140498&amp;ftid=1137443&amp;dwn=1&amp;CFID=700680761&amp;CFTOKEN=63321586">pdf</a>  
 Kristina Gulordava, Marco Baroni. 2011.
                                                                                                        
 ### Abstracts and work in progress
 <b> Lexico-semantic factors in the variation of adjective placement in complex noun phrases in Italian </b>
-<i>DSALT workshop </i> <a href="https://dl.dropboxusercontent.com/u/513347/events/dsalt2016-abstracts/15-Kristina_Gulordava_DSALT_abstract.pdf">abstract</a> 
+<i>DSALT workshop </i> <a href="https://dl.dropboxusercontent.com/u/513347/events/dsalt2016-abstracts/15-Kristina_Gulordava_DSALT_abstract.pdf">abstract</a>   
 Kristina Gulordava. 2016 
 
 <b>A large-scale corpus-based study of NP-internal word order variation for several languages.</b> 
