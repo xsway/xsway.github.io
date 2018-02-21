@@ -8,17 +8,24 @@ cross-linguistic perspective.
 
 <b>Multi-lingual Dependency Parsing Evaluation: a Large-scale Analysis of Word Order Properties using Artificial Data</b> 
  *TACL* <a href="https://transacl.org/ojs/index.php/tacl/article/view/870">pdf</a> 
+ 
 Kristina Gulordava, Paola Merlo. 2016. 
 
+
 <b>Discontinuous Verb Phrases in Parsing and Machine Translation of English and German.</b>  *LREC* <a href="http://www.lrec-conf.org/proceedings/lrec2016/summaries/628.html">pdf</a> 
+
 Sharid Loáiciga, Kristina Gulordava. 2016. 
+
 
 <b>Dependency length minimisation effects in short spans: a large-scale analysis of adjective placement in complex noun phrases.</b>  
 *ACL short* <a href="http://www.aclweb.org/anthology/P/P15/P15-2078.pdf">pdf</a>
+
 Kristina Gulordava, Paola Merlo, Benoit Crabbé. 2015. 
+
 
 <b>Structural and lexical factors in adjective placement in complex noun phrases across Romance languages.</b>
 <i>CONLL</i> <a href="https://aclweb.org/anthology/K/K15/K15-1025.pdf">pdf</a> 
+
 Kristina Gulordava, Paola Merlo. 2015. 
 
 <b>Diachronic Trends in Word Order Freedom and Dependency Length in Dependency-Annotated Corpora of Latin and Ancient Greek.</b> 
