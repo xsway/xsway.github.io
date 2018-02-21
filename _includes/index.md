@@ -1,15 +1,13 @@
 **February 2018** I have started a new research position at the University Pompeu Fabra. 
 		
-Before that I was pursuing my PhD at the University of Geneva working with <a href="http://www.latl.unige.ch/personal/paola.html">Paola Merlo</a>
- on computational approaches to word order variation and dependency length minimisation from a 
+Before that I was pursuing my PhD at the University of Geneva working with <a href="http://www.latl.unige.ch/personal/paola.html">Paola Merlo</a> on computational approaches to word order variation and dependency length minimisation from a 
 cross-linguistic perspective. 
 
 ### Publications 
 
 <b>Multi-lingual Dependency Parsing Evaluation: a Large-scale Analysis of Word Order Properties using Artificial Data</b> 
  *TACL* <a href="https://transacl.org/ojs/index.php/tacl/article/view/870">pdf</a> 
- 
-Kristina Gulordava, Paola Merlo. 2016. 
+  Kristina Gulordava, Paola Merlo. 2016. 
 
 
 <b>Discontinuous Verb Phrases in Parsing and Machine Translation of English and German.</b>  *LREC* <a href="http://www.lrec-conf.org/proceedings/lrec2016/summaries/628.html">pdf</a> 
