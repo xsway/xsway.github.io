@@ -6,7 +6,7 @@ cross-linguistic perspective.
 ### Publications 
 
 <b>Multi-lingual Dependency Parsing Evaluation: a Large-scale Analysis of Word Order Properties using Artificial Data</b> 
- *TACL* <a href="https://transacl.org/ojs/index.php/tacl/article/view/870">pdf</a> 
+ *TACL* <a href="https://transacl.org/ojs/index.php/tacl/article/view/870">pdf</a>   
   Kristina Gulordava, Paola Merlo. 2016. 
 
 
