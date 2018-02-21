@@ -6,18 +6,16 @@ cross-linguistic perspective.
 
 ### Publications 
 
+**Multi-lingual Dependency Parsing Evaluation: a Large-scale Analysis of Word Order Properties using Artificial Data**
+ *TACL* <a href="https://transacl.org/ojs/index.php/tacl/article/view/870">pdf</a> 
+Kristina Gulordava, Paola Merlo. 2016. 
 
-<b>Multi-lingual Dependency Parsing Evaluation: a Large-scale Analysis of Word Order Properties using Artificial Data</b>.
- <i>TACL</i> <a href="https://transacl.org/ojs/index.php/tacl/article/view/870">pdf</a> 
-<br>Kristina Gulordava, Paola Merlo. 2016. <br>
-<br>
+**Discontinuous Verb Phrases in Parsing and Machine Translation of English and German.** *LREC* <a href="http://www.lrec-conf.org/proceedings/lrec2016/summaries/628.html">pdf</a> 
+Sharid Loáiciga, Kristina Gulordava. 2016. 
 
-<b>Discontinuous Verb Phrases in Parsing and Machine Translation of English and German.</b> <i>LREC</i> <a href="http://www.lrec-conf.org/proceedings/lrec2016/summaries/628.html">pdf</a> <br>Sharid Loáiciga, Kristina Gulordava. 2016. <br>
-<br>
-
-<b>Dependency length minimisation effects in short spans: a large-scale analysis of adjective placement in complex noun phrases</b>. 
-<i>ACL short</i> <a href="http://www.aclweb.org/anthology/P/P15/P15-2078.pdf">pdf</a><br>
-Kristina Gulordava, Paola Merlo, Benoit Crabbé. 2015. <br><br>
+**Dependency length minimisation effects in short spans: a large-scale analysis of adjective placement in complex noun phrases.** 
+*ACL short* <a href="http://www.aclweb.org/anthology/P/P15/P15-2078.pdf">pdf</a>
+Kristina Gulordava, Paola Merlo, Benoit Crabbé. 2015. 
 
 <b>Structural and lexical factors in adjective placement in complex noun phrases across Romance languages.</b>
 <i>CONLL</i> <a href="https://aclweb.org/anthology/K/K15/K15-1025.pdf">pdf</a> <br>
@@ -31,17 +29,11 @@ Kristina Gulordava, Paola Merlo. 2015. <br> <br>
 <i>Proceedings of the GEMS 2011 Workshop on GEometrical Models of Natural Language Semantics</i> <a href="http://dl.acm.org/ft_gateway.cfm?id=2140498&amp;ftid=1137443&amp;dwn=1&amp;CFID=700680761&amp;CFTOKEN=63321586">pdf</a> <br>
 Kristina Gulordava, Marco Baroni. 2011. <br> <br>
                                                                                                        
-<h4> Abstracts and work in progress</h4>
+### Abstracts and work in progress
 <b> Lexico-semantic factors in the variation of adjective placement in complex noun phrases in Italian </b>
 <i>DSALT workshop </i> <a href="https://dl.dropboxusercontent.com/u/513347/events/dsalt2016-abstracts/15-Kristina_Gulordava_DSALT_abstract.pdf">abstract</a> <br>
 Kristina Gulordava. 2016 <br><br>
 
-<b>A large-scale corpus-based study of NP-internal word order variation for several languages.</b> 
+**A large-scale corpus-based study of NP-internal word order variation for several languages.**
 <i>8th Days of Swiss Linguistics</i> <a href="http://www.linguistik.uzh.ch/whatsup/activities/chling8/Gulordava_NP-internal-word-order.pdf">abstract</a><br>
-Kristina Gulordava, Paola Merlo. 2014. <br>
-	</div>
-</div>
-
-
-
-</body></html>
+Kristina Gulordava, Paola Merlo. 2014.
