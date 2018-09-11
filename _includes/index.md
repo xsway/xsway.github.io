@@ -38,7 +38,7 @@ Kristina Gulordava, Paola Merlo. 2015
 Kristina Gulordava, Marco Baroni. 2011
                                                                                                        
 ## Abstracts and work in progress
-<b>Incremental Generative Model of Sentence Linearization and Word Order Variation</b>*CMCL Workshop @EACL* [poster](/assets/files/cmcl_poster.pdf)  
+<b>Incremental Generative Model of Sentence Linearization and Word Order Variation</b> *CMCL Workshop @EACL* [poster](/assets/files/cmcl_poster.pdf)  
 Kristina Gulordava, Frank Keller. 2017 
 
 <b>Lexico-semantic factors in the variation of adjective placement in complex noun phrases in Italian</b>
