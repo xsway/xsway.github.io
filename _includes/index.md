@@ -37,8 +37,8 @@ Kristina Gulordava, Paola Merlo. 2015
 <i>Proceedings of the GEMS 2011 Workshop on GEometrical Models of Natural Language Semantics</i> <a href="http://dl.acm.org/ft_gateway.cfm?id=2140498&amp;ftid=1137443&amp;dwn=1&amp;CFID=700680761&amp;CFTOKEN=63321586">pdf</a> / [bib](https://aclanthology.coli.uni-saarland.de/papers/W11-2508/w11-2508.bib)  
 Kristina Gulordava, Marco Baroni. 2011
                                                                                                        
-### Abstracts and work in progress
-<b>Incremental Generative Model of Sentence Linearization and Word Order Variation</b>*CMCL Workshop @EACL* [poster](/assets/files/cmcl_poster.pdf)
+## Abstracts and work in progress
+<b>Incremental Generative Model of Sentence Linearization and Word Order Variation</b>*CMCL Workshop @EACL* [poster](/assets/files/cmcl_poster.pdf)  
 Kristina Gulordava, Frank Keller. 2017 
 
 <b>Lexico-semantic factors in the variation of adjective placement in complex noun phrases in Italian</b>
@@ -46,5 +46,5 @@ Kristina Gulordava, Frank Keller. 2017
 Kristina Gulordava. 2016 
 
 <b>A large-scale corpus-based study of NP-internal word order variation for several languages.</b> 
-<i>8th Days of Swiss Linguistics</i> <a href="http://www.linguistik.uzh.ch/whatsup/activities/chling8/Gulordava_NP-internal-word-order.pdf">abstract</a>
+<i>8th Days of Swiss Linguistics</i> <a href="http://www.linguistik.uzh.ch/whatsup/activities/chling8/Gulordava_NP-internal-word-order.pdf">abstract</a>  
 Kristina Gulordava, Paola Merlo. 2014.
