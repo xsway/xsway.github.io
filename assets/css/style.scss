@@ -8,7 +8,7 @@ body {
   background-color: #fff;
   padding:50px;
   font: 15px/1.5 'Istok Web', sans-serif;
-  color:#727272;
+  color:#626262;
   font-weight:400;
 }
 
@@ -38,23 +38,25 @@ h3, h4, h5, h6 {
 }
 
 a {
-  color:#267CB9;
+  color:#3CB371;
   text-decoration:none;
 }
 
 a:hover, a:focus {
-  color:#069;
+  color:#3CB371;
+  font-weight:normal;
 }
 
 a small {
   font-size:11px;
-  color:#777;
+  color:#3CB371;
   margin-top:-0.3em;
   display:block;
 }
 
 a:hover small {
-  color:#777;
+  color:#3CB371;
+  font-weight:normal;
 }
 
 .wrapper {
@@ -150,6 +152,7 @@ ul.downloads {
 
 .downloads a:hover, .downloads a:focus {
   color:#675C5C;
+  font-weight:normal;
 }
 
 .downloads ul a:active {
