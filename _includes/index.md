@@ -13,7 +13,7 @@ Kristina Gulordava, Paola Merlo.
 Kristina Gulordava, Piotr Bojanowski, Edouard Grave, Tal Linzen, Marco Baroni. 2018
 
 <b>Multi-lingual Dependency Parsing Evaluation: a Large-scale Analysis of Word Order Properties using Artificial Data</b> 
- *TACL* <a href="https://transacl.org/ojs/index.php/tacl/article/view/870">pdf</a> [bib](https://aclanthology.coli.uni-saarland.de/papers/Q16-1025/q16-1025.bib)  
+ *TACL* <a href="https://transacl.org/ojs/index.php/tacl/article/view/870">pdf</a> / [bib](https://aclanthology.coli.uni-saarland.de/papers/Q16-1025/q16-1025.bib)  
 Kristina Gulordava, Paola Merlo. 2016
 
 
