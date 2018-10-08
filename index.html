@@ -2,8 +2,19 @@
 layout: default
 ---
 
-{% capture index %}{% include index.md %}{% endcapture %}
-{{ index | markdownify }}
 
+{% include career-profile.html %}
 
+{% unless site.data.data.sidebar.education %}
+  {% include education.html %}
+{% endunless %}
 
+{% include experiences.html %}
+
+{% include projects.html %}
+
+{% include publications.html %}
+
+{% include abstracts.html %}
+
+{% include skills.html %}
