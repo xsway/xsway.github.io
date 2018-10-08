@@ -1,0 +1,97 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output. 
+#
+
+sidebar:
+
+    # Profile information
+    name: Kristina Gulordava
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: kristina.gulordava@upf.edu
+    cv: CV
+    github: xsway
+    twitter: '@xsway_'
+    scholar: https://scholar.google.com/citations?user=HMoiJQgAAAAJ&hl=en
+   
+
+
+career-profile:
+    summary: |
+          From February 2018, I'm a postdoc on [Gemma Boleda's ERC project](https://www.upf.edu/web/amore) at the University Pompeu Fabra, Barcelona. We develop and analyse neural network models for semantic reference. I'm particularly interested in modeling reference and word learning in child language acquisition.
+
+          I did my PhD at the University of Geneva working with <a href="http://www.latl.unige.ch/personal/paola.html">Paola Merlo</a>. You can download my thesis *"Word order variation and dependency length minimisation : a cross-linguistic computational approach"* [here](https://archive-ouverte.unige.ch/unige:106855).
+
+publications:
+    title: Publications
+
+    papers:
+      
+      - title: "How to represent a word and predict it, too: Improving tied architectures for language modelling."
+        conference: Accepted at EMNLP 2018 (short)
+        authors: Kristina Gulordava, Laura Aina, Gemma Boleda
+
+      - title: "Computational Quantitative Syntax: The Case of Universal 18. "
+        conference: Accepted for the upcoming volume for LSRL 47
+        authors: Kristina Gulordava, Paola Merlo
+
+      - title: "Colorless Green Recurrent Networks Dream Hierarchically." 
+        conference: "NAACL 2018 
+[pdf](http://aclweb.org/anthology/N18-1108) / [bib](https://aclanthology.coli.uni-saarland.de/papers/N18-1108/n18-1108.bib)  / [code](https://github.com/facebookresearch/colorlessgreenRNNs) / [slides](/assets/files/gulordava_naacl2018_slides.pdf)"
+        authors: Kristina Gulordava, Piotr Bojanowski, Edouard Grave, Tal Linzen, Marco Baroni
+      
+      - title: "Multi-lingual Dependency Parsing Evaluation: a Large-scale Analysis of Word Order Properties using Artificial Data."
+        conference: "TACL 2016 [pdf](https://transacl.org/ojs/index.php/tacl/article/view/870) / [bib](https://aclanthology.coli.uni-saarland.de/papers/Q16-1025/q16-1025.bib)"  
+        authors: Kristina Gulordava, Paola Merlo
+
+      - title: Discontinuous Verb Phrases in Parsing and Machine Translation of English and German.
+        conference: LREC 2016 [pdf](http://www.lrec-conf.org/proceedings/lrec2016/summaries/628.html)
+        authors: Sharid Loáiciga, Kristina Gulordava 
+
+      - title: "Dependency length minimisation effects in short spans: a large-scale analysis of adjective placement in complex noun phrases."
+        conference: "ACL 2015 (short) [pdf](http://www.aclweb.org/anthology/P/P15/P15-2078.pdf) /  [bib](https://aclanthology.coli.uni-saarland.de/papers/P15-2078/p15-2078.bib)"
+        authors: Kristina Gulordava, Paola Merlo, Benoit Crabbé
+
+      - title: Structural and lexical factors in adjective placement in complex noun phrases across Romance languages.
+        conference: CONLL 2015 [pdf](https://aclweb.org/anthology/K/K15/K15-1025.pdf) / [bib](https://aclanthology.coli.uni-saarland.de/papers/K15-1025/k15-1025.bib) 
+        authors: Kristina Gulordava, Paola Merlo
+
+      - title: Diachronic Trends in Word Order Freedom and Dependency Length in Dependency-Annotated Corpora of Latin and Ancient Greek.
+        conference: International Conference on Dependency Linguistics 2015 [pdf](http://aclweb.org/anthology/W/W15/W15-2115.pdf) / [bib](https://aclanthology.coli.uni-saarland.de/papers/W15-2115/w15-2115.bib)
+        authors: Kristina Gulordava, Paola Merlo
+
+      - title: A distributional similarity approach to the detection of semantic change in the Google Books Ngram corpus.
+        conference: Proceedings of the GEMS 2011 Workshop [pdf](http://www.aclweb.org/anthology/W11-2508) / [bib](https://aclanthology.coli.uni-saarland.de/papers/W11-2508/w11-2508.bib)
+        authors: Kristina Gulordava, Marco Baroni
+
+      - title:
+        conference:
+        authors:
+
+      - title:
+        conference:
+        authors:
+
+abstracts:
+    title: "Abstracts & Presentations"
+       
+    abstracts:
+      - title: Incremental Generative Model of Sentence Linearization and Word Order Variation.
+        conference: CMCL Workshop at EACL 2017 [poster](/assets/files/cmcl_poster.pdf)
+        authors: Kristina Gulordava, Frank Keller
+
+      - title: Lexico-semantic factors in the variation of adjective placement in complex noun phrases in Italian.
+        conference: DSALT Workshop 2016 [abstract](https://dl.dropboxusercontent.com/u/513347/events/dsalt2016-abstracts/15-Kristina_Gulordava_DSALT_abstract.pdf)
+        authors: Kristina Gulordava
+
+      - title: A large-scale corpus-based study of NP-internal word order variation for several languages.
+        conference: 8th Days of Swiss Linguistics  2014 [abstract](http://www.linguistik.uzh.ch/whatsup/activities/chling8/Gulordava_NP-internal-word-order.pdf)
+        authors: Kristina Gulordava, Paola Merlo
+
+      
+       
+
+
+footer: >
+    Adopted from [online-cv Jekyll theme](https://github.com/sharu725/online-cv) based on <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
