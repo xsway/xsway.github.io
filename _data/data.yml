@@ -79,7 +79,7 @@ abstracts:
        
     abstracts:
       - title: Do RNN language models induce referential information? An analysis of article prediction.
-        conference: Learning Language in Humans and Machines 2018.   
+        conference: Learning Language in Humans and Machines 2018 [poster](https://osf.io/8gybp/)   
         authors: Kristina Gulordava, Gemma Boleda
 
       - title: Incremental Generative Model of Sentence Linearization and Word Order Variation.
