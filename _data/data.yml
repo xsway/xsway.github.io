@@ -78,6 +78,10 @@ abstracts:
     title: "Abstracts & Presentations"
        
     abstracts:
+      - title: Do RNN language models induce referential information? An analysis of article prediction.
+        conference: Learning Language in Humans and Machines 2018.   
+        authors: Kristina Gulordava, Gemma Boleda
+
       - title: Incremental Generative Model of Sentence Linearization and Word Order Variation.
         conference: CMCL Workshop at EACL 2017 [poster](/assets/files/cmcl_poster.pdf)
         authors: Kristina Gulordava, Frank Keller
