@@ -30,7 +30,7 @@ publications:
     papers:
       
       - title: "How to represent a word and predict it, too: Improving tied architectures for language modelling."
-        conference: Accepted at EMNLP 2018 (short)
+        conference: "EMNLP 2018 (short) [pdf](http://aclweb.org/anthology/D18-1323) / [bib](https://aclanthology.coli.uni-saarland.de/papers/D18-1323/d18-1323.bib)"
         authors: Kristina Gulordava, Laura Aina, Gemma Boleda
 
       - title: "Computational Quantitative Syntax: The Case of Universal 18. "
@@ -47,7 +47,7 @@ publications:
         authors: Kristina Gulordava, Paola Merlo
 
       - title: Discontinuous Verb Phrases in Parsing and Machine Translation of English and German.
-        conference: LREC 2016 [pdf](http://www.lrec-conf.org/proceedings/lrec2016/summaries/628.html)
+        conference: "LREC 2016 [pdf](http://www.lrec-conf.org/proceedings/lrec2016/pdf/628_Paper.pdf) / [bib](http://www.lrec-conf.org/proceedings/lrec2016/summaries/628.html)"
         authors: Sharid Loáiciga, Kristina Gulordava 
 
       - title: "Dependency length minimisation effects in short spans: a large-scale analysis of adjective placement in complex noun phrases."
