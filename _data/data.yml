@@ -29,13 +29,13 @@ publications:
 
     papers:
       
-      - title: "How to represent a word and predict it, too: Improving tied architectures for language modelling."
-        conference: "EMNLP 2018 (short) [pdf](http://aclweb.org/anthology/D18-1323) / [bib](https://aclanthology.coli.uni-saarland.de/papers/D18-1323/d18-1323.bib)"
-        authors: Kristina Gulordava, Laura Aina, Gemma Boleda
-
       - title: "Computational Quantitative Syntax: The Case of Universal 18. "
         conference: Accepted for the upcoming volume for LSRL 47
         authors: Kristina Gulordava, Paola Merlo
+
+      - title: "How to represent a word and predict it, too: Improving tied architectures for language modelling."
+        conference: "EMNLP 2018 (short) [pdf](http://aclweb.org/anthology/D18-1323) / [bib](https://aclanthology.coli.uni-saarland.de/papers/D18-1323/d18-1323.bib)"
+        authors: Kristina Gulordava, Laura Aina, Gemma Boleda
 
       - title: "Colorless Green Recurrent Networks Dream Hierarchically." 
         conference: "NAACL 2018 
